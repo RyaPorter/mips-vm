@@ -1,5 +1,5 @@
 # Intro
-MIPS is a reduced instruction set computer (RISC) instruction set architecture. This project attempts to create a rudementary virtual machine that can execute the various instructions present in the architecture.
+MIPS is a reduced instruction set computer (RISC) instruction set architecture. This project is an ongoing attempt to create a rudementary virtual machine that can execute code assembled for this instruction set.
 
 ## Goals
 - [x] Create the different virtual hardware components
