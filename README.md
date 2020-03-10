@@ -7,3 +7,5 @@ MIPS is a reduced instruction set computer (RISC) instruction set architecture. 
 - - [x] Memory (Implemented as a uint32 array)
 - - [ ] Implement instruction set
 - - [ ] Implement rudamentary assembler
+
+[Instruction Reference](http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html)
