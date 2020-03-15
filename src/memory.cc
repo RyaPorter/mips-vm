@@ -1,9 +1,5 @@
-#include "../include/memory.hh";
+#include "../include/memory.hh"
 #include <stdint.h>
-
-hardware::memory::memory(/* args */) {
-    hardware::memory::mem = new uint32_t[UINT32_MAX];
-}
 
 hardware::memory::~memory() { delete hardware::memory::mem; }
 

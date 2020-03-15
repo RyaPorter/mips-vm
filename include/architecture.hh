@@ -20,7 +20,7 @@ struct instr {
 };
 
 enum regs {
-    r1,
+    r1 = 1,
     r2,
     r3,
     r4,
