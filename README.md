@@ -1,4 +1,8 @@
-# Intro
+# MIPS VM
+
+[![Build Status](https://travis-ci.org/RyaPorter/mips-vm.svg?branch=master)](https://travis-ci.org/RyaPorter/})
+
+## Intro
 MIPS is a reduced instruction set computer (RISC) instruction set architecture. This project is an ongoing attempt to create a rudementary virtual machine that can execute code assembled for this instruction set.
 
 ## Goals
